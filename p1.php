@@ -3,6 +3,7 @@
     <title>P1 Page</title>
 </head>
 <body>
+<!-- Client page -->
 <a href="p2.php?link=<?php echo urlencode("http://www.google.com") ?>">www.google.com</a><br/>
 <a href="p2.php?link=<?php echo urlencode("http://www.yahoo.com") ?>">www.yahoo.com</a><br/>
 <a href="p2.php?link=<?php echo urlencode("http://www.aol.com") ?>">www.aol.com</a><br/>

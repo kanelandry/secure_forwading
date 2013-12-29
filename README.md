@@ -12,4 +12,4 @@ What's new?
 Algorithm design and code review: Landry Kouajiep
 <br>Coding and simulation: Pradeep Samuel
 
-For more about this technical asset, please consult its full article: http://codijuana.blogspot.com/2013/12/
+For more about this technical asset, please consult its full article: http://codijuana.blogspot.com/2013/12/going-safe-secure-forwarding.html

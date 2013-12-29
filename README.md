@@ -10,6 +10,7 @@ What's new?
 - High perfomance in time and space complexities
 
 Algorithm design and code review: Landry Kouajiep
+
 Coding and simulation: Pradeep Samuel
 
 For more about this technical asset, please consult its full article: http://codijuana.blogspot.com/2013/12/

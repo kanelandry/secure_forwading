@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: PradeepSamuel
- * Date: 19/12/13
- * Time: 5:29 PM
+ * P2 is the script of the black-list check
+ * For more details about it, please visit: http://blogspot.codijuana.com
  */
 $redirectStatus = false;
 

@@ -1,3 +1,11 @@
+<?php
+/**
+* P1 is the client page from where the user clicks the unknown link
+* For more details about it, please visit: http://blogspot.codijuana.com
+* Code and simulation: Pradeep Samuel
+* Algorithm and code review: Landry Kouajiep
+*/
+?>
 <html>
 <head>
     <title>P1 Page</title>
@@ -10,6 +18,7 @@
 <a href="p2.php?link=<?php echo urlencode("http://www.sypware-attack.com") ?>">www.sypware-attack.com</a><br/>
 
 <?php
+
 session_start();
 if (isset($_SESSION['urlToRedirect'])) {
     $urlToRedirect = $_SESSION['urlToRedirect'];

@@ -5,7 +5,7 @@ Inspired from the traffic control capability  Websense, we tried to provide a sc
 
 
 What's new?
-- More local control of the black listed websites
+- More local control of the black-listed websites
 - Code and algorithm flexibility
 - High perfomance in time and space complexities
 

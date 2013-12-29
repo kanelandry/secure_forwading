@@ -7,11 +7,9 @@ $redirectStatus = false;
 
 if (isset($_GET["link"])) {
     $url = $_GET["link"];
-   // $redirectStatus = $_GET["redirectStatus"];
-   // if ($redirectStatus) {
     if (isset($_GET["redirectStatus"])) {
 	    $redirectStatus = $_GET["redirectStatus"];
-        error_log($url . "\n", 3, "../SecuredForwarding/bannedVisits.log");
+        error_log($url . "\n", 3, "bannedVisits.log");
         header("Location: " . $url);
         die();
     } else {
@@ -39,7 +37,7 @@ function blacklistAccessPoint($url)
 {
     $host = "localhost";
     $username = "root";
-    $password = "No@dm1n";
+    $password = "password";
     $schema = "mydb";
 
     $conn = mysql_connect($host, $username, $password);

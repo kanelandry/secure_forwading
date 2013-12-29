@@ -2,6 +2,8 @@
 /**
  * P2 is the script of the black-list check
  * For more details about it, please visit: http://blogspot.codijuana.com
+ * Code and simulation: Pradeep Samuel
+ * Algorithm and code review: Landry Kouajiep
  */
 $redirectStatus = false;
 
